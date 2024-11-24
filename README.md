@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **vipinvns3524@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eGAEKuOPX5yGrtbSQK_DfH8WEXkGRa-1/view?usp=sharing](https://drive.google.com/file/d/1eGAEKuOPX5yGrtbSQK_DfH8WEXkGRa-1/view?usp=sharing)
+- 📄 Know about my experiences [link](https://drive.google.com/file/d/1eGAEKuOPX5yGrtbSQK_DfH8WEXkGRa-1/view?usp=sharing)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vip955529&label=Profile%20views&color=0e75b6&style=flat" alt="vip955529" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vip955529" alt="vip955529" /></a> </p>
