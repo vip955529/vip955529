@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **WhatsApp Clone**
+- 🔭 I’m currently working as an **Android SDE Intern at Teachmint**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Advanced Android Development**
 
 - 💬 Ask me about **Android Dev, C++ etc.**
 
